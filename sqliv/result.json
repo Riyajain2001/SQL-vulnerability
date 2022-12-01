@@ -1,0 +1,50 @@
+{
+    "0": {
+        "url": "https://www.rad-journal.org/index.php?id=8", 
+        "lang": "", 
+        "db": "MySQL", 
+        "server": ""
+    }, 
+    "1": {
+        "url": "https://www.rad-journal.org/paper.php?id=42", 
+        "lang": "", 
+        "db": "MySQL", 
+        "server": ""
+    }, 
+    "2": {
+        "url": "https://www.rad-journal.org/paper.php?id=60", 
+        "lang": "", 
+        "db": "MySQL", 
+        "server": ""
+    }, 
+    "3": {
+        "url": "https://www.rad-journal.org/index.php?id=1", 
+        "lang": "", 
+        "db": "MySQL", 
+        "server": ""
+    }, 
+    "4": {
+        "url": "https://www.rad-journal.org/index.php?id=3", 
+        "lang": "", 
+        "db": "MySQL", 
+        "server": ""
+    }, 
+    "5": {
+        "url": "https://www.rad-journal.org/index.php?id=2", 
+        "lang": "", 
+        "db": "MySQL", 
+        "server": ""
+    }, 
+    "6": {
+        "url": "https://www.rad-journal.org/index.php?id=7", 
+        "lang": "", 
+        "db": "MySQL", 
+        "server": ""
+    }, 
+    "7": {
+        "url": "https://www.rad-journal.org/index.php?id=6", 
+        "lang": "", 
+        "db": "MySQL", 
+        "server": ""
+    }
+}
